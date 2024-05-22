@@ -32,5 +32,6 @@ int main(){
     }
     else{
         printf("target element not found");
+        
     }
 }
